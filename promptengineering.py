@@ -23,6 +23,6 @@ def to_markdown(text):
   text = text.replace('•', '  *')
   return Markdown(textwrap.indent(text, '> ', predicate=lambda _: True))
 #%%
-response = model.generate_content("")
+response = model.generate_content("Craft an ingenious life hack or productivity tip that ingeniously simplifies or streamlines everyday tasks. Focus on practicality, originality, and ease of implementation. Ensure the solution solves a common pain point and provides a unique perspective that enhances daily efficiency")
 to_markdown(response.text)
 #%%
