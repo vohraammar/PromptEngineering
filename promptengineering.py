@@ -24,13 +24,13 @@ def to_markdown(text):
   return Markdown(textwrap.indent(text, '> ', predicate=lambda _: True))
 #%%
 response = model.generate_content(
-    """You are a seasoned efficiency consultant, renowned for developing ingenious life hacks specifically for busy professionals. (Think about the specific challenges professionals face)
+    """You are a seasoned efficiency consultant, renowned for developing ingenious life hacks specifically for busy professionals. (What specific challenges do busy professionals face that lead to feeling overwhelmed?)
 
-A client has approached you today, overwhelmed by the feeling of being constantly behind on emails, meetings, and to-do lists. They juggle a demanding job with personal commitments and feel like they're constantly playing catch-up. (Think about the specific pain points of a busy professional)
+A client has approached you today, overwhelmed by the feeling of being constantly behind on emails, meetings, and to-do lists. They juggle a demanding job with personal commitments and feel like they're constantly playing catch-up. (Can you narrow down the pain points to a specific, actionable area within email management, meetings, or to-do lists? Is there a way to combine these pain points into a more focused area?)
     
 Here's what you need to consider when crafting your life hack:
 
-    Identify a common pain point: What are some everyday tasks that busy professionals find tedious, time-consuming, or frustrating? (e.g., scheduling meetings, managing to-do lists, information overload from emails) (Added example)
+    Identify a common pain point: (Focus on a specific area: scheduling meetings, managing to-do lists, or information overload from emails.)
     Originality is key: Don't offer generic advice. Think outside the box and develop a unique approach.
     Practicality matters: The solution should be easy to implement and integrate into daily life.
     Focus on efficiency: The life hack should save time, effort, or resources.
