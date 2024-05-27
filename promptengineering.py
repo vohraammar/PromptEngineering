@@ -30,19 +30,19 @@ A client has approached you today, overwhelmed by the feeling of being constantl
     
 Here's what you need to consider when crafting your life hack:
 
-        Identify a common pain point: What are some everyday tasks that people find tedious, time-consuming, or frustrating?
-        Originality is key: Don't offer generic advice. Think outside the box and develop a unique approach.
-        Practicality matters: The solution should be easy to implement and integrate into daily life.
-        Focus on efficiency: The life hack should save time, effort, or resources.
+    Identify a common pain point: What are some everyday tasks that busy professionals find tedious, time-consuming, or frustrating? (e.g., scheduling meetings, managing to-do lists, information overload from emails) (Added example)
+    Originality is key: Don't offer generic advice. Think outside the box and develop a unique approach.
+    Practicality matters: The solution should be easy to implement and integrate into daily life.
+    Focus on efficiency: The life hack should save time, effort, or resources.
 
 Now, get creative! Craft a life hack or productivity tip that will leave your client feeling empowered and in control of their day.
 
-Here are some additional prompts to guide your brainstorming:
+Additional prompts to guide your brainstorming (using few-shot examples):
 
-        What everyday task could be simplified by repurposing a common object?
-        How could you utilize technology to automate a mundane chore?
-        Can you develop a clever system to organize and prioritize tasks?
-        Is there a way to combine multiple tasks into a single, efficient action?
+    What everyday task could be simplified by repurposing a common object? (Example: Can a paperclip be used to create a visual priority system for to-do list items?)
+    How could you utilize technology to automate a mundane chore? (Example: Can a scheduling app be integrated with email to automatically suggest meeting times based on everyone's availability?)
+    Can you develop a clever system to organize and prioritize tasks? (Example: Can a "batching" system be implemented to group similar tasks together and work on them efficiently?)
+    Is there a way to combine multiple tasks into a single, efficient action? (Example: Can a voice memo app be used to capture notes while walking to a meeting?)
 
 Remember, your client seeks a unique and practical solution. Use your expertise to design a life hack that will transform their daily routine!"""
 )
